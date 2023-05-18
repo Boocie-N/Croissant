@@ -1,3 +1,17 @@
 body {
-  background: aqua;
+  background: rgb(248, 249, 247);
+}
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+a {
+  color: green;
+}
+div {
+  text-align: center;
+}
+h4 {
+  text-align: center;
 }
